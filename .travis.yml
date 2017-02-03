@@ -4,5 +4,4 @@ rvm:
  - jruby
  - rbx-2
 # uncomment and edit the following line if your project needs to run something other than `rake`:
-- psql -c "CREATE USER skateparks WITH PASSWORD 'skateparks';" -U postgres
-# script: bundle exec rspec spec
+script: bundle exec rspec spec
